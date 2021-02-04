@@ -4,7 +4,7 @@
 
 ## 📋 Sobre
 
-O projeto **CreditCard** é uma aplicação que foi feita como base para **estudo** que simula um carrinho de compra de produtos, além de possuir toda etapa de compra até chegar ao Checkout final para finalizar a compra. O sistema também tem a parte de autentiação e criação de contas, podendo diferenciar de contas de administradores para usuários normais, como por exemplo, o Dashboard que habilita funções exclusivas ao usuário administrador, sendo uma delas a de adicionar produtos.
+O projeto **CreditCard** é uma aplicação que foi feita como base para **estudo** que simula um carrinho de compra de produtos, além de possuir toda etapa de compra até chegar ao Checkout final para finalizar a compra. O sistema também tem a parte de autenticação e criação de contas, podendo diferenciar de contas de administradores para usuários normais, como por exemplo, o Dashboard que habilita funções exclusivas ao usuário administrador, sendo uma delas a de adicionar produtos.
 
 [**Link para o Frontend:**](https://github.com/CarlosAug-tech/creditcard-example-web)
 
